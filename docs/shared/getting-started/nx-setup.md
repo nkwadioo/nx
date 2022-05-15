@@ -1,5 +1,13 @@
 # Nx Setup
 
+## Install Nx CLI
+
+To make the developer experience nicer, you may want to install the Nx CLI globally.
+
+```bash
+npm install -g nx
+```
+
 ## Set up a New Nx Workspace
 
 Run the following command to create a new workspace.
@@ -47,14 +55,6 @@ npx cra-to-nx
 ```
 
 For more information on adding Nx to an existing repository see the [migration guide](/migration/migration-cra)
-
-## Install Nx CLI
-
-To make the developer experience nicer, you may want to install the Nx CLI globally.
-
-```bash
-npm install -g nx
-```
 
 ## Folder Structure
 
